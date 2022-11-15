@@ -1,0 +1,5 @@
+Hello java developers
+Java is a simple language
+Java is robust
+What is mean by ClassCastException
+Read and write the give files 
